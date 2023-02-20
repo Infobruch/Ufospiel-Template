@@ -4,7 +4,7 @@ public class Asteroid{
     //[...]
 
     public Asteroid(){
-        kugel = new GLKugel(0,1000,0, 50, "src/Krater.jpg");
+        kugel = new GLKugel(0,1000,0, 50, "src/img/Krater.jpg");
         //[...]
     }
 

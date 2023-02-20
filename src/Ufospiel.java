@@ -14,7 +14,7 @@ public class Ufospiel{
         kamera.verschiebe(0,200,500);
         licht  = new GLLicht();
         tastatur = new GLTastatur();
-        himmel = new GLHimmel("src/Sterne.jpg");
+        himmel = new GLHimmel("src/img/Sterne.jpg");
 
         dasUfo = new Ufo();
 
